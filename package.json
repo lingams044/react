@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://yourusername.github.io/student-portal",
+  "homepage": "https://lingams044.github.io/react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
